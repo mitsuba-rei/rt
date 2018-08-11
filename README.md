@@ -6,8 +6,8 @@ Code collection developed in the episodes related to raytracing.
 
 ### Episodes
 
-- `01`: https://youtu.be/4XeJEDuhyPs 
-- `02`: https://youtu.be/hzeT48zUx1M 
+[![](http://img.youtube.com/vi/4XeJEDuhyPs/0.jpg)](https://youtu.be/4XeJEDuhyPs)
+[![](http://img.youtube.com/vi/hzeT48zUx1M/0.jpg)](https://youtu.be/hzeT48zUx1M)
 
 ### License
 
